@@ -1,0 +1,10 @@
+{
+    "section": {
+      "data1": "value",
+      "data2": "2323"
+    },
+    "MyserviceOptions" :{
+      "data1": "Hoc dependency",
+      "data2":  "23456"
+    }
+  }

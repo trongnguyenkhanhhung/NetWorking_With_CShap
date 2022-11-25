@@ -1,0 +1,13 @@
+C:\Users\DELL\Code_C#_VS\HttpMessageHandler\bin\Debug\netcoreapp3.1\HttpMessageHandler.exe
+C:\Users\DELL\Code_C#_VS\HttpMessageHandler\bin\Debug\netcoreapp3.1\HttpMessageHandler.deps.json
+C:\Users\DELL\Code_C#_VS\HttpMessageHandler\bin\Debug\netcoreapp3.1\HttpMessageHandler.runtimeconfig.json
+C:\Users\DELL\Code_C#_VS\HttpMessageHandler\bin\Debug\netcoreapp3.1\HttpMessageHandler.runtimeconfig.dev.json
+C:\Users\DELL\Code_C#_VS\HttpMessageHandler\bin\Debug\netcoreapp3.1\HttpMessageHandler.dll
+C:\Users\DELL\Code_C#_VS\HttpMessageHandler\bin\Debug\netcoreapp3.1\HttpMessageHandler.pdb
+C:\Users\DELL\Code_C#_VS\HttpMessageHandler\obj\Debug\netcoreapp3.1\HttpMessageHandler.AssemblyInfoInputs.cache
+C:\Users\DELL\Code_C#_VS\HttpMessageHandler\obj\Debug\netcoreapp3.1\HttpMessageHandler.AssemblyInfo.cs
+C:\Users\DELL\Code_C#_VS\HttpMessageHandler\obj\Debug\netcoreapp3.1\HttpMessageHandler.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Code_C#_VS\HttpMessageHandler\obj\Debug\netcoreapp3.1\HttpMessageHandler.dll
+C:\Users\DELL\Code_C#_VS\HttpMessageHandler\obj\Debug\netcoreapp3.1\HttpMessageHandler.pdb
+C:\Users\DELL\Code_C#_VS\HttpMessageHandler\obj\Debug\netcoreapp3.1\HttpMessageHandler.genruntimeconfig.cache
+C:\Users\DELL\Code_C#_VS\HttpMessageHandler\obj\Debug\netcoreapp3.1\HttpMessageHandler.csprojAssemblyReference.cache

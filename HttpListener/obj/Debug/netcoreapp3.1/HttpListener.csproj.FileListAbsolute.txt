@@ -1,0 +1,16 @@
+C:\Users\DELL\Code_C#_VS\HttpListener\bin\Debug\netcoreapp3.1\HttpListener.exe
+C:\Users\DELL\Code_C#_VS\HttpListener\bin\Debug\netcoreapp3.1\HttpListener.deps.json
+C:\Users\DELL\Code_C#_VS\HttpListener\bin\Debug\netcoreapp3.1\HttpListener.runtimeconfig.json
+C:\Users\DELL\Code_C#_VS\HttpListener\bin\Debug\netcoreapp3.1\HttpListener.runtimeconfig.dev.json
+C:\Users\DELL\Code_C#_VS\HttpListener\bin\Debug\netcoreapp3.1\HttpListener.dll
+C:\Users\DELL\Code_C#_VS\HttpListener\bin\Debug\netcoreapp3.1\HttpListener.pdb
+C:\Users\DELL\Code_C#_VS\HttpListener\obj\Debug\netcoreapp3.1\HttpListener.csproj.AssemblyReference.cache
+C:\Users\DELL\Code_C#_VS\HttpListener\obj\Debug\netcoreapp3.1\HttpListener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Code_C#_VS\HttpListener\obj\Debug\netcoreapp3.1\HttpListener.AssemblyInfoInputs.cache
+C:\Users\DELL\Code_C#_VS\HttpListener\obj\Debug\netcoreapp3.1\HttpListener.AssemblyInfo.cs
+C:\Users\DELL\Code_C#_VS\HttpListener\obj\Debug\netcoreapp3.1\HttpListener.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Code_C#_VS\HttpListener\obj\Debug\netcoreapp3.1\HttpListener.dll
+C:\Users\DELL\Code_C#_VS\HttpListener\obj\Debug\netcoreapp3.1\HttpListener.pdb
+C:\Users\DELL\Code_C#_VS\HttpListener\obj\Debug\netcoreapp3.1\HttpListener.genruntimeconfig.cache
+C:\Users\DELL\Code_C#_VS\HttpListener\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DELL\Code_C#_VS\HttpListener\obj\Debug\netcoreapp3.1\HttpListener.csproj.CopyComplete

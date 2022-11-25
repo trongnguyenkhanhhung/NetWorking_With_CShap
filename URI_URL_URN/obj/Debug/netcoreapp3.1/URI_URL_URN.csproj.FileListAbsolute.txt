@@ -1,0 +1,13 @@
+C:\Users\DELL\Code_C#_VS\URI_URL_URN\bin\Debug\netcoreapp3.1\URI_URL_URN.exe
+C:\Users\DELL\Code_C#_VS\URI_URL_URN\bin\Debug\netcoreapp3.1\URI_URL_URN.deps.json
+C:\Users\DELL\Code_C#_VS\URI_URL_URN\bin\Debug\netcoreapp3.1\URI_URL_URN.runtimeconfig.json
+C:\Users\DELL\Code_C#_VS\URI_URL_URN\bin\Debug\netcoreapp3.1\URI_URL_URN.runtimeconfig.dev.json
+C:\Users\DELL\Code_C#_VS\URI_URL_URN\bin\Debug\netcoreapp3.1\URI_URL_URN.dll
+C:\Users\DELL\Code_C#_VS\URI_URL_URN\bin\Debug\netcoreapp3.1\URI_URL_URN.pdb
+C:\Users\DELL\Code_C#_VS\URI_URL_URN\obj\Debug\netcoreapp3.1\URI_URL_URN.AssemblyInfoInputs.cache
+C:\Users\DELL\Code_C#_VS\URI_URL_URN\obj\Debug\netcoreapp3.1\URI_URL_URN.AssemblyInfo.cs
+C:\Users\DELL\Code_C#_VS\URI_URL_URN\obj\Debug\netcoreapp3.1\URI_URL_URN.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Code_C#_VS\URI_URL_URN\obj\Debug\netcoreapp3.1\URI_URL_URN.dll
+C:\Users\DELL\Code_C#_VS\URI_URL_URN\obj\Debug\netcoreapp3.1\URI_URL_URN.pdb
+C:\Users\DELL\Code_C#_VS\URI_URL_URN\obj\Debug\netcoreapp3.1\URI_URL_URN.genruntimeconfig.cache
+C:\Users\DELL\Code_C#_VS\URI_URL_URN\obj\Debug\netcoreapp3.1\URI_URL_URN.csprojAssemblyReference.cache
